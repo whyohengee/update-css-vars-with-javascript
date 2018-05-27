@@ -8,4 +8,10 @@ But with this method, when you update a single var with JS, it will update acros
 
 This demo places the CSS vars on the `:root` element, but you can scope them to lower elements.
 
-You can see it on [Codepen here](https://codepen.io/whyohengee/pen/Pexjqe), view it on [Github Pages here](https://whyohengee.github.io/update-css-vars-with-javascript/) or read my [blog post about it here](add link).
+Here are links for:
+
+[My blog post](http://yongclee.com/update-css-vars-with-js/)
+
+[Codepen](https://codepen.io/whyohengee/pen/Pexjqe)
+
+[Github Pages](https://whyohengee.github.io/update-css-vars-with-javascript/)
